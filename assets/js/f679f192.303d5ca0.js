@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneuroethics=self.webpackChunkneuroethics||[]).push([[967],{5475:function(e){e.exports=JSON.parse('{"allTagsPath":"/neuroethics/blog/tags","name":"hello","count":2,"permalink":"/neuroethics/blog/tags/hello"}')}}]);
