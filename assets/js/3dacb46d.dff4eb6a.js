@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneuroethics=self.webpackChunkneuroethics||[]).push([[906],{5745:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);
