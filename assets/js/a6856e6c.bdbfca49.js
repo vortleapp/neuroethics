@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkneuroethics=self.webpackChunkneuroethics||[]).push([[83],{5663:function(e){e.exports=JSON.parse('{"permalink":"/neuroethics/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

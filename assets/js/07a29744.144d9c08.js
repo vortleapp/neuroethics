@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkneuroethics=self.webpackChunkneuroethics||[]).push([[900],{1955:function(e){e.exports=JSON.parse('{"permalink":"/neuroethics/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
